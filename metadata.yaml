@@ -1,0 +1,33 @@
+_repo: Adeline-Mowbrayor-The-Mother-and-Daughter_37908
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Opie, Amelia
+    aliases:
+    - Alderson, Amelia
+    - Opie, Amelia Alderson
+    birthdate: 1769
+    deathdate: 1853
+    gutenberg_agent_id: '37581'
+    url: http://www.gutenberg.org/2009/agents/37581
+    wikipedia: http://en.wikipedia.org/wiki/Amelia_Opie
+description: ''
+gutenberg_issued: '2011-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37908'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mothers and daughters -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcc 'PR'
+- !lcsh 'Unmarried couples -- Fiction'
+- !lcsh 'Feminist fiction'
+title: Adeline Mowbray; or, The Mother and Daughter
+url: http://www.gutenberg.org/ebooks/37908
